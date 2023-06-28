@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "FwtZowhjiWw6GGRL2y6HNsS3uvqtLg/dzBiyvGBvvPfqt8VjgSXYRE7/L+Mf7fLSWyCsY4dsreOiSj0AxrqOLQ==",
+  "success": true,
+  "projectFilePath": "/home/raphmar2023/SipaaOS/SipaaOS/SipaaOS.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/cosmos.build/0.1.0-localbuild/cosmos.build.0.1.0-localbuild.nupkg.sha512",
+    "/root/.nuget/packages/cosmos.common/0.1.0-localbuild/cosmos.common.0.1.0-localbuild.nupkg.sha512",
+    "/root/.nuget/packages/cosmos.core/0.1.0-localbuild/cosmos.core.0.1.0-localbuild.nupkg.sha512",
+    "/root/.nuget/packages/cosmos.debug.kernel/0.1.0-localbuild/cosmos.debug.kernel.0.1.0-localbuild.nupkg.sha512",
+    "/root/.nuget/packages/cosmos.hal2/0.1.0-localbuild/cosmos.hal2.0.1.0-localbuild.nupkg.sha512",
+    "/root/.nuget/packages/cosmos.system2/0.1.0-localbuild/cosmos.system2.0.1.0-localbuild.nupkg.sha512",
+    "/root/.nuget/packages/il2cpu.api/0.1.0-localbuild/il2cpu.api.0.1.0-localbuild.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.19/microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

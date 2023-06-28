@@ -1,0 +1,15 @@
+/home/raphmar2023/SipaaOS/SipaaOS/bin/cosmos/Debug/net6.0/SipaaOS.deps.json
+/home/raphmar2023/SipaaOS/SipaaOS/bin/cosmos/Debug/net6.0/SipaaOS.dll
+/home/raphmar2023/SipaaOS/SipaaOS/bin/cosmos/Debug/net6.0/SipaaOS.pdb
+/home/raphmar2023/SipaaOS/SipaaOS/bin/cosmos/Debug/net6.0/PrismAPI.dll
+/home/raphmar2023/SipaaOS/SipaaOS/obj/cosmos/Debug/net6.0/SipaaOS.csproj.AssemblyReference.cache
+/home/raphmar2023/SipaaOS/SipaaOS/obj/cosmos/Debug/net6.0/SipaaOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphmar2023/SipaaOS/SipaaOS/obj/cosmos/Debug/net6.0/SipaaOS.AssemblyInfoInputs.cache
+/home/raphmar2023/SipaaOS/SipaaOS/obj/cosmos/Debug/net6.0/SipaaOS.AssemblyInfo.cs
+/home/raphmar2023/SipaaOS/SipaaOS/obj/cosmos/Debug/net6.0/SipaaOS.csproj.CoreCompileInputs.cache
+/home/raphmar2023/SipaaOS/SipaaOS/obj/cosmos/Debug/net6.0/SipaaOS.csproj.CopyComplete
+/home/raphmar2023/SipaaOS/SipaaOS/obj/cosmos/Debug/net6.0/SipaaOS.dll
+/home/raphmar2023/SipaaOS/SipaaOS/obj/cosmos/Debug/net6.0/refint/SipaaOS.dll
+/home/raphmar2023/SipaaOS/SipaaOS/obj/cosmos/Debug/net6.0/SipaaOS.pdb
+/home/raphmar2023/SipaaOS/SipaaOS/obj/cosmos/Debug/net6.0/ref/SipaaOS.dll
+/home/raphmar2023/SipaaOS/SipaaOS/bin/cosmos/Debug/net6.0/SSharp.dll

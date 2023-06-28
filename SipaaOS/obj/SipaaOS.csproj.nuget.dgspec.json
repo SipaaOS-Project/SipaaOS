@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/raphmar2023/SipaaOS/SipaaOS/SipaaOS.csproj": {}
+  },
+  "projects": {
+    "/home/raphmar2023/SipaaOS/SipaaOS/SipaaOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/raphmar2023/SipaaOS/SipaaOS/SipaaOS.csproj",
+        "projectName": "SipaaOS",
+        "projectPath": "/home/raphmar2023/SipaaOS/SipaaOS/SipaaOS.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/raphmar2023/SipaaOS/SipaaOS/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/opt/cosmos/Packages/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Cosmos.Build": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "Cosmos.Debug.Kernel": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "Cosmos.System2": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.19, 6.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.411/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

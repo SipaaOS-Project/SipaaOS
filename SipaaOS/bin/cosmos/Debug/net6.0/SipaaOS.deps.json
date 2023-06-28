@@ -1,0 +1,173 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SipaaOS/1.0.0": {
+        "dependencies": {
+          "Cosmos.Build": "0.1.0-localbuild",
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild",
+          "Cosmos.System2": "0.1.0-localbuild",
+          "PrismAPI": "0.0.0.0",
+          "SSharp": "1.0.0.0"
+        },
+        "runtime": {
+          "SipaaOS.dll": {}
+        }
+      },
+      "Cosmos.Build/0.1.0-localbuild": {},
+      "Cosmos.Common/0.1.0-localbuild": {
+        "dependencies": {
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild"
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cosmos.Core/0.1.0-localbuild": {
+        "dependencies": {
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild",
+          "IL2CPU.API": "0.1.0-localbuild"
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cosmos.Debug.Kernel/0.1.0-localbuild": {
+        "runtime": {
+          "lib/netstandard2.0/Cosmos.Debug.Kernel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cosmos.HAL2/0.1.0-localbuild": {
+        "dependencies": {
+          "Cosmos.Common": "0.1.0-localbuild",
+          "Cosmos.Core": "0.1.0-localbuild",
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild",
+          "IL2CPU.API": "0.1.0-localbuild"
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.HAL2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cosmos.System2/0.1.0-localbuild": {
+        "dependencies": {
+          "Cosmos.Common": "0.1.0-localbuild",
+          "Cosmos.Debug.Kernel": "0.1.0-localbuild",
+          "Cosmos.HAL2": "0.1.0-localbuild",
+          "IL2CPU.API": "0.1.0-localbuild"
+        },
+        "runtime": {
+          "lib/net6.0/Cosmos.System2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "IL2CPU.API/0.1.0-localbuild": {
+        "runtime": {
+          "lib/netstandard2.0/IL2CPU.API.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrismAPI/0.0.0.0": {
+        "runtime": {
+          "PrismAPI.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SSharp/1.0.0.0": {
+        "runtime": {
+          "SSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SipaaOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cosmos.Build/0.1.0-localbuild": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+1ai7n86KhNg5ulYWEYVCmrFLp/O/RDU95yPPfKXkU1KrkGfSCysNy5VpK+9zGHn6UdpNyRKfJ8tp46/K+ulpw==",
+      "path": "cosmos.build/0.1.0-localbuild",
+      "hashPath": "cosmos.build.0.1.0-localbuild.nupkg.sha512"
+    },
+    "Cosmos.Common/0.1.0-localbuild": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DwU55U0En3REkB7ozdQMjF81rZ9zzNYgupEaF085ePdJKkDhw0ooLkH0mlaX3w7QIlAnLKOp/1PYNjmJFUeouw==",
+      "path": "cosmos.common/0.1.0-localbuild",
+      "hashPath": "cosmos.common.0.1.0-localbuild.nupkg.sha512"
+    },
+    "Cosmos.Core/0.1.0-localbuild": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ggt7FdVwZuzGVHCqCQe1m+eqXUQnuCKrEu6joLL7rj29u9LT3hnXY5RqkmhyFSF2mDxxfUsWU7AkQoDsCnLkFw==",
+      "path": "cosmos.core/0.1.0-localbuild",
+      "hashPath": "cosmos.core.0.1.0-localbuild.nupkg.sha512"
+    },
+    "Cosmos.Debug.Kernel/0.1.0-localbuild": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-baMWqSbxZ9+x+cr7Ob2u/XgohgyQ0o5391GO4xkfKGRkUWYjgescROO/wVLtm229NDQqE68Pg9iSUbIWSqA9BA==",
+      "path": "cosmos.debug.kernel/0.1.0-localbuild",
+      "hashPath": "cosmos.debug.kernel.0.1.0-localbuild.nupkg.sha512"
+    },
+    "Cosmos.HAL2/0.1.0-localbuild": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-klwWSXX/9E/81IbK800Y9g2sUQhchMMXmQN1DpFDoAM7EbjyMd7Qo6bmJtuaJ6Upr0Khi9c4TDSesJMBZVDzVw==",
+      "path": "cosmos.hal2/0.1.0-localbuild",
+      "hashPath": "cosmos.hal2.0.1.0-localbuild.nupkg.sha512"
+    },
+    "Cosmos.System2/0.1.0-localbuild": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-15WymGb3nqSAKDBgbHejmI6wnITTUQZnoBshtBpjA+/39j4EWEX7OWPR1tAW0sa7VGe9zYMX7Pj/YUilLiZSAg==",
+      "path": "cosmos.system2/0.1.0-localbuild",
+      "hashPath": "cosmos.system2.0.1.0-localbuild.nupkg.sha512"
+    },
+    "IL2CPU.API/0.1.0-localbuild": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U3OOYVauPHKgkoTIvf/en4Wh3mp3ou4vmD1YWyb254BY1POhQXTd++AMn3rWv3HPnHvLKRwKxiIkRuVb4isJIA==",
+      "path": "il2cpu.api/0.1.0-localbuild",
+      "hashPath": "il2cpu.api.0.1.0-localbuild.nupkg.sha512"
+    },
+    "PrismAPI/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSharp/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
